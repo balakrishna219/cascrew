@@ -2,6 +2,8 @@ welcome to cashcrew
 castcaller
 castseeker
 castseakercaller
+beans
+pizza
 
 
 
